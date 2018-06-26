@@ -15,5 +15,19 @@
 ======================================================================
 
 ======================================================================
-
+maven 依赖
+	 <!-- sftpLinux文件上传需要  -->
+     <dependency>  
+	  <groupId>com.jcraft</groupId>  
+	  <artifactId>jsch</artifactId>  
+	  <version>0.1.42</version>
+	 </dependency> 
+     <!-- https://mvnrepository.com/artifact/commons-lang/commons-lang -->
+	 <dependency>
+	    <groupId>commons-lang</groupId>
+	    <artifactId>commons-lang</artifactId>
+	    <version>2.6</version>
+	 </dependency>
+	 
+	 
 ======================================================================
