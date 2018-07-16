@@ -92,6 +92,12 @@
 	    <version>2.8</version>
 	</dependency>
     
-    
+	<!-- 百度文字识别sdk -->
+    <dependency>
+	    <groupId>com.baidu.aip</groupId>
+	    <artifactId>java-sdk</artifactId>
+	    <version>4.4.1</version>
+	</dependency>
+	
   </dependencies>
 </project>
