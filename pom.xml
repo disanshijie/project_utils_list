@@ -12,6 +12,10 @@
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    
+    <commons-email.version>1.2</commons-email.version>
+    
+    <freemarker.version>2.3.19</freemarker.version>
   </properties>
 
   <dependencies>
@@ -59,7 +63,6 @@
 	    <artifactId>dom4j</artifactId>
 	    <version>1.6.1</version>
 	</dependency>
-    
     
     <dependency>
          <groupId>org.freemarker</groupId>

@@ -1,1 +1,6 @@
-[(20180626142050)|INFO|(com.oracle.sun.core.email.demo.method2.core.MailUtil)]=[Tue Jun 26 14:20:50 CST 2018:#Send mail to878455649@qq.comsuccess #]
+[(20180910110224)|INFO|(com.oracle.sun.design.email.design.project5.MailUtil)]=[Mon Sep 10 11:02:24 CST 2018:#Send mail to878455649@qq.comsuccess #]
+[(20180910111049)|INFO|(com.oracle.sun.design.email.design.project5.MailUtil)]=[Mon Sep 10 11:10:49 CST 2018:#Send mail to878455649@qq.comerror #]
+[(20180910111049)|INFO|(com.oracle.sun.design.email.design.project5.MailUtil)]=[com.sun.mail.util.MailConnectException: Couldn't connect to host, port: smtp.163.com, 469; timeout -1;
+  nested exception is:
+	java.net.ConnectException: Connection refused: connect]
+[(20180910111103)|INFO|(com.oracle.sun.design.email.design.project5.MailUtil)]=[Mon Sep 10 11:11:03 CST 2018:#Send mail to878455649@qq.comsuccess #]
